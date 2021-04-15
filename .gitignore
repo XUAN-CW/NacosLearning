@@ -5,4 +5,16 @@ target/
 *.iml
 *.iws
 *.ipr
+*.iws
+.mvn
+mvnw.cmd
+mvnw
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
 
+
+### VS Code ###
+.vscode/
